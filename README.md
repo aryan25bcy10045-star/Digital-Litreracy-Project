@@ -4,7 +4,7 @@
 
 ---
 
-## 📘 Course & Student Details  
+##  Course & Student Details  
 
 | Field | Details |
 |------|--------|
@@ -18,43 +18,43 @@
 
 ---
 
-## 📝 Project Overview  
+##  Project Overview  
 
 This repository contains my Digital Literacy Portfolio, created as a requirement for the CSE0001 course. Based on the scenario of being a Student Digital Ambassador, this project demonstrates my ability to help peers navigate professional online profiles and communicate safely and responsibly in a digital landscape. The portfolio spans five modules, covering visual communication, professional branding, technical collaboration, and cybersecurity awareness.  
 
 ---
 
-## 📂 Repository Structure  
+##  Repository Structure  
 
 ```plaintext
 digital-literacy-project/
-├── README.md                                     # Project overview and navigation [cite: 13]
+├── README.md                                           # Project overview and navigation 
 ├── Report/
-│   └── Project_Report.pdf                        # Full comprehensive project report [cite: 14]
+│   └── Project_Report.pdf                              # Full comprehensive project report
 ├── Task-1-Presentation/
-│   └── Digital Literacy Navigating the Modern Web.png # Awareness infographic [cite: 14]
+│   └── Digital Literacy Navigating the Modern Web.png  # Awareness infographic 
 ├── Task-2-Portfolio/
-│   ├── GITHUB.png                                # Profile README verification [cite: 14]
-│   ├── KAGGLE.png                                # Data science platform setup [cite: 14]
-│   └── LINKEDIN.jpeg                             # Professional networking profile [cite: 14]
+│   ├── GITHUB.png                                      # Profile README verification 
+│   ├── KAGGLE.png                                      # Data science platform setup 
+│   └── LINKEDIN.jpeg                                   # Professional networking profile 
 ├── Task-3-Platforms/
-│   ├── Digital Literacy Awareness Quiz (Page-1).png   # Quiz structure [cite: 14]
-│   ├── Digital Literacy Awareness Quiz (Page-2).png   # Quiz questions [cite: 14]
-│   ├── Digital Literacy Awareness Quiz (RESPONSES).png # Response tracking [cite: 14]
-│   ├── HACKER RANK CHALLENGE-1.png               # Problem-solving proof [cite: 14]
-│   └── HACKER RANK CHALLENGE-2.png               # Badge/Score verification [cite: 14]
+│   ├── Digital Literacy Awareness Quiz (Page-1).png    # Quiz structure 
+│   ├── Digital Literacy Awareness Quiz (Page-2).png    # Quiz questions 
+│   ├── Digital Literacy Awareness Quiz (RESPONSES).png # Response tracking 
+│   ├── HACKER RANK CHALLENGE-1.png                     # Problem-solving proof 
+│   └── HACKER RANK CHALLENGE-2.png                     # Score verification 
 ├── Task-4-Email-Etiquette/
-│   ├── Email-1.pdf                               # Extension request draft [cite: 14]
-│   ├── Email-2.pdf                               # Internship inquiry draft [cite: 14]
-│   └── social-media-checklist.md                 # Student etiquette guide [cite: 14]
+│   ├── Email-1.pdf                                     # Extension request draft 
+│   ├── Email-2.pdf                                     # Internship inquiry draft 
+│   └── social-media-checklist.md                       # Student etiquette guide 
 └── Task-5-Cybercrime/
-    ├── casestudy.md                              # Cybercrime case study writeup [cite: 14]
-    └── prevention-checklist.md                    # Cybersecurity prevention guide [cite: 14]
+    ├── casestudy.md                                    # Cybercrime case study writeup 
+    └── prevention-checklist.md                         # Cybersecurity prevention guide 
 ```
 
 ---
 
-## 🚀 Module Summaries  
+##  Module Summaries  
 
 ### Task 1 – Digital Literacy Awareness Infographic  
 
@@ -124,5 +124,5 @@ Submitted: 30th March 2026
 ---
 
 <p align="center">
-  ⭐ <b>End of Digital Literacy Portfolio</b> ⭐  
+   <b>End of Digital Literacy Portfolio</b> 
 </p>
